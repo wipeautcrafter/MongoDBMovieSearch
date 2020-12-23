@@ -1,2 +1,2 @@
-# InformaticaSite
-Site voor een Informatica opdracht.
+# MongoDBMovieSearch
+Site developed for a school project using PHP and MongoDB.
